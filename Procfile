@@ -1,1 +1,1 @@
-web: waitress botNew:app
+web: waitress-serve --port=$PORT cardisle.wsgi:application
