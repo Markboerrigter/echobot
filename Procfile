@@ -1,0 +1,1 @@
+web: waitress botNew:app
